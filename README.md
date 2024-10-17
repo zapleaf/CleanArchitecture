@@ -3,4 +3,4 @@ This is a base solution for creating a application with Clean Architecture. I am
 
 ## Overview
 The project currently has an API as the presentation layer.
-The solution currently has an API, Applicaito, Domain, and Infrastructure.
+The solution currently has an API, Application, Domain, and Infrastructure project layer.
