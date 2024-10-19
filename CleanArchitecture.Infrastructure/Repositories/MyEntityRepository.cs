@@ -1,4 +1,4 @@
-﻿using CleanArchitecture.Domain.IRepositories;
+﻿using CleanArchitecture.Application.IRepositories;
 
 namespace CleanArchitecture.Infrastructure.Repositories;
 
