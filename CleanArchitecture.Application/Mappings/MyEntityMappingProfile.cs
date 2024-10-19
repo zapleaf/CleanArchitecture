@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Application.Mappings
+namespace CleanArchitecture.Application.Mappings;
+
+internal class MyEntityMappingProfile
 {
-    internal class MyEntityMappingProfile
-    {
-    }
 }

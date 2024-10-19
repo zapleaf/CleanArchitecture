@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace CleanArchitecture.Application.MyEntity.Command.Create;
 
-namespace CleanArchitecture.Application.MyEntity.Command.Create
+internal class CreateMyEntityValidator
 {
-    internal class CreateMyEntityValidator
-    {
-    }
 }

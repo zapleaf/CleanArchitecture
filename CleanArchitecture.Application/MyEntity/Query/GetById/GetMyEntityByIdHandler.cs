@@ -1,6 +1,5 @@
-﻿namespace CleanArchitecture.Application.MyEntity.Query.GetById
+﻿namespace CleanArchitecture.Application.MyEntity.Query.GetById;
+
+internal class GetMyEntityByIdHandler
 {
-    internal class GetMyEntityByIdHandler
-    {
-    }
 }

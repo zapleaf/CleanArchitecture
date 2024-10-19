@@ -1,6 +1,5 @@
-﻿namespace CleanArchitecture.Application.Dtos
+﻿namespace CleanArchitecture.Application.Dtos;
+
+internal class MyEntityDto
 {
-    internal class MyEntityDto
-    {
-    }
 }
